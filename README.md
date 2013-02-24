@@ -1,2 +1,2 @@
 ## CSS Reset
-This is my CSS Reset built. It's built on Normalize.css
+This is my goto CSS Reset. It's based on Normalize.css
